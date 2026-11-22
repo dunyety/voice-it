@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Voice It
 
 Listen to your books read aloud. Upload a PDF or text file, choose a woman's or a man's voice,
@@ -44,3 +45,7 @@ Then open the URL the dev server prints (usually http://localhost:8080).
 - Tailwind CSS v4
 - Web Speech API for the reading voice
 - `pdfjs-dist` for reading PDFs, `idb-keyval` for saving books and progress
+=======
+# voice-it
+listen to your book
+>>>>>>> bdb191a1d2ca4d60cff2cf75e8eb087f9cfa2d03
